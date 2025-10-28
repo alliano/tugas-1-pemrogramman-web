@@ -1,5 +1,3 @@
-
-
 const orderForm = document.getElementById("orderForm");
 const orderTableBody = document.querySelector("#orderTable tbody");
 
